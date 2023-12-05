@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SandeepReddyThippareddy/Web_Programming_react_Task/static/css/main.27f3bffc.css",
-    "main.js": "/SandeepReddyThippareddy/Web_Programming_react_Task/static/js/main.42a2b97f.js",
-    "static/js/787.d4aba7ab.chunk.js": "/SandeepReddyThippareddy/Web_Programming_react_Task/static/js/787.d4aba7ab.chunk.js",
-    "static/media/logo.svg": "/SandeepReddyThippareddy/Web_Programming_react_Task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/SandeepReddyThippareddy/Web_Programming_react_Task/index.html",
-    "main.27f3bffc.css.map": "/SandeepReddyThippareddy/Web_Programming_react_Task/static/css/main.27f3bffc.css.map",
-    "main.42a2b97f.js.map": "/SandeepReddyThippareddy/Web_Programming_react_Task/static/js/main.42a2b97f.js.map",
-    "787.d4aba7ab.chunk.js.map": "/SandeepReddyThippareddy/Web_Programming_react_Task/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/my-app/static/css/main.27f3bffc.css",
+    "main.js": "/my-app/static/js/main.b04e5940.js",
+    "static/js/787.d4aba7ab.chunk.js": "/my-app/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-app/index.html",
+    "main.27f3bffc.css.map": "/my-app/static/css/main.27f3bffc.css.map",
+    "main.b04e5940.js.map": "/my-app/static/js/main.b04e5940.js.map",
+    "787.d4aba7ab.chunk.js.map": "/my-app/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27f3bffc.css",
-    "static/js/main.42a2b97f.js"
+    "static/js/main.b04e5940.js"
   ]
 }
